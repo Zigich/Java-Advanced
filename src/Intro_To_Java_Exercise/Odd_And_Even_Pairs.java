@@ -1,7 +1,7 @@
 package Intro_To_Java_Exercise;
 
-import java.util.Arrays;
-import java.util.Scanner;
+        import java.util.Arrays;
+        import java.util.Scanner;
 
 public class Odd_And_Even_Pairs {
     public static void main(String[] args) {

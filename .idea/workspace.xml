@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9dce790-3ecf-4c02-a60d-0c588c86f83e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Sets_And_Maps_Exercise/Count_Symbols.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Sets_And_Maps_Exercise/Periodic_Table.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Sets_And_Maps_Exercise/Phonebook.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Sets_And_Maps_Exercise/Sets_Of_Elements.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Sets_And_Maps_Exercise/Unique_Usernames.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Sets_And_Maps_Lab/Parking_Lot.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Sets_And_Maps_Exercise/Fix_Emails.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Sets_And_Maps_Exercise/Hand_Of_Cards.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Sets_And_Maps_Exercise/Miner_Task.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Sets_And_Maps_Exercise/User_Logs.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,16 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Matrix_Of_Palindromes.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Linear_Data_Structores_Exerrcise/Matrix_Of_Palindromes.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="15" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Parking_Lot.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Sets_And_Maps_Lab/Parking_Lot.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -55,11 +43,59 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Sets_Of_Elements.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Sets_Of_Elements.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Sets_And_Maps_Exercise/Sets_Of_Elements.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="20" column="37" lean-forward="true" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Miner_Task.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Sets_And_Maps_Exercise/Miner_Task.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Fix_Emails.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Sets_And_Maps_Exercise/Fix_Emails.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="483">
-              <caret line="31" column="45" lean-forward="true" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
+              <caret line="26" column="31" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Hand_Of_Cards.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Sets_And_Maps_Exercise/Hand_Of_Cards.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="441">
+              <caret line="21" column="11" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="21" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User_Logs.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Sets_And_Maps_Exercise/User_Logs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="259">
+              <caret line="21" column="14" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -82,8 +118,8 @@
       <file leaf-file-name="Count_Symbols.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Sets_And_Maps_Exercise/Count_Symbols.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" column="53" lean-forward="true" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+            <state relative-caret-position="462">
+              <caret line="22" column="44" lean-forward="false" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -94,24 +130,10 @@
       <file leaf-file-name="Phonebook.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Sets_And_Maps_Exercise/Phonebook.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="40" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+            <state relative-caret-position="360">
+              <caret line="34" column="18" lean-forward="false" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Fill_The_Matrix.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Linear_Data_Structores_Exerrcise/Fill_The_Matrix.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="29" column="11" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="30" selection-end-column="9" />
-              <folding>
-                <element signature="method#main#0;class#Fill_The_Matrix#0" expanded="false" />
-                <element signature="method#patternB#0;class#Fill_The_Matrix#0" expanded="false" />
-                <element signature="method#patternA#0;class#Fill_The_Matrix#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -172,6 +194,10 @@
         <option value="$PROJECT_DIR$/src/Sets_And_Maps_Exercise/Count_Symbols.java" />
         <option value="$PROJECT_DIR$/src/Sets_And_Maps_Exercise/Phonebook.java" />
         <option value="$PROJECT_DIR$/src/Sets_And_Maps_Exercise/Sets_Of_Elements.java" />
+        <option value="$PROJECT_DIR$/src/Sets_And_Maps_Exercise/Fix_Emails.java" />
+        <option value="$PROJECT_DIR$/src/Sets_And_Maps_Exercise/Miner_Task.java" />
+        <option value="$PROJECT_DIR$/src/Sets_And_Maps_Exercise/Hand_Of_Cards.java" />
+        <option value="$PROJECT_DIR$/src/Sets_And_Maps_Exercise/User_Logs.java" />
       </list>
     </option>
   </component>
@@ -181,7 +207,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-28" />
     <option name="width" value="1033" />
     <option name="height" value="1038" />
@@ -252,15 +278,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Sets_Of_Elements">
-    <configuration name="Count_Symbols" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.User_Logs">
+    <configuration name="Fix_Emails" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="Sets_And_Maps_Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Sets_And_Maps_Exercise.Count_Symbols" />
+      <option name="MAIN_CLASS_NAME" value="Sets_And_Maps_Exercise.Fix_Emails" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -272,14 +298,14 @@
       <module name="Java_Advanced" />
       <envs />
     </configuration>
-    <configuration name="Periodic_Table" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Miner_Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="Sets_And_Maps_Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Sets_And_Maps_Exercise.Periodic_Table" />
+      <option name="MAIN_CLASS_NAME" value="Sets_And_Maps_Exercise.Miner_Task" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -329,14 +355,14 @@
       <module name="Java_Advanced" />
       <envs />
     </configuration>
-    <configuration name="Unique_Usernames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="User_Logs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="Sets_And_Maps_Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Sets_And_Maps_Exercise.Unique_Usernames" />
+      <option name="MAIN_CLASS_NAME" value="Sets_And_Maps_Exercise.User_Logs" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -364,19 +390,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Unique_Usernames" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Periodic_Table" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Count_Symbols" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Phonebook" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Sets_Of_Elements" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Phonebook" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Sets_Of_Elements" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Miner_Task" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Fix_Emails" />
+      <item index="4" class="java.lang.String" itemvalue="Application.User_Logs" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Sets_Of_Elements" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Phonebook" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Count_Symbols" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Periodic_Table" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Unique_Usernames" />
+        <item index="0" class="java.lang.String" itemvalue="Application.User_Logs" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Fix_Emails" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Miner_Task" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Sets_Of_Elements" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Phonebook" />
       </list>
     </recent_temporary>
   </component>
@@ -398,16 +424,15 @@
       <workItem from="1526384709628" duration="5179000" />
       <workItem from="1526568672581" duration="10835000" />
       <workItem from="1526925518951" duration="771000" />
-      <workItem from="1526983290133" duration="5680000" />
+      <workItem from="1526983290133" duration="12713000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33587000" />
+    <option name="totallyTimeSpent" value="40620000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -418,7 +443,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32928178" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -471,40 +496,18 @@
           <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Sets_And_Maps_Exercise/User_Logs.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="8" />
+      <option name="time" value="14" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Intro_To_Java_Exercise/XBytes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Intro_To_Java_Exercise/Formatting_Numbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="47" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Intro_To_Java_Exercise/Get_First_Odd_Or_Even_Elements.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Intro_To_Java_Lab/Greeting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Intro_To_Java_Lab/Transport_Price.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
@@ -800,6 +803,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sets_And_Maps_Exercise/Sets_Of_Elements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="20" column="37" lean-forward="true" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Sets_And_Maps_Exercise/Unique_Usernames.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -811,20 +824,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sets_And_Maps_Exercise/Count_Symbols.java">
+    <entry file="file://$PROJECT_DIR$/src/Sets_And_Maps_Exercise/Phonebook.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="53" lean-forward="true" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+        <state relative-caret-position="360">
+          <caret line="34" column="18" lean-forward="false" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sets_And_Maps_Exercise/Phonebook.java">
+    <entry file="file://$PROJECT_DIR$/src/Sets_And_Maps_Exercise/Count_Symbols.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="40" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        <state relative-caret-position="462">
+          <caret line="22" column="44" lean-forward="false" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -841,10 +854,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sets_And_Maps_Exercise/Sets_Of_Elements.java">
+    <entry file="file://$PROJECT_DIR$/src/Sets_And_Maps_Exercise/Miner_Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sets_And_Maps_Exercise/Fix_Emails.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
-          <caret line="31" column="45" lean-forward="true" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
+          <caret line="26" column="31" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sets_And_Maps_Exercise/Hand_Of_Cards.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="11" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="21" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sets_And_Maps_Exercise/User_Logs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="21" column="14" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
